@@ -1,0 +1,6 @@
+c:\users\ryan\documents\visual studio 2015\Projects\Dice\Dice\bin\Debug\Dice.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\Dice\Dice\bin\Debug\Dice.exe
+c:\users\ryan\documents\visual studio 2015\Projects\Dice\Dice\bin\Debug\Dice.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\Dice\Dice\obj\Debug\Dice.exe
+c:\users\ryan\documents\visual studio 2015\Projects\Dice\Dice\obj\Debug\Dice.pdb
